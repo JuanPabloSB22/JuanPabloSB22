@@ -1,6 +1,6 @@
-### Hi there 👋
+### HOLA A TODOS!👋
 
-<h2>I'm Cameron.</h2>
+<h2>Soy Juan Pablo</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
 
